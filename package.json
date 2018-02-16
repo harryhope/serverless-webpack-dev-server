@@ -1,0 +1,26 @@
+{
+  "name": "serverless-webpack-dev-server",
+  "version": "1.0.0",
+  "description": "Run a webpack dev server seamlessly with serverless offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryhope/serverless-webpack-dev-server.git"
+  },
+  "keywords": [
+    "serverless",
+    "serverless-offline"
+  ],
+  "author": "Harry Hope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harryhope/serverless-webpack-dev-server/issues"
+  },
+  "homepage": "https://github.com/harryhope/serverless-webpack-dev-server#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
