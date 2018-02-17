@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/harryhope/serverless-webpack-dev-server#readme",
   "dependencies": {
-    "bluebird": "^3.5.1"
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "webpack": "^3.11.0",
+    "webpack-dev-middleware": "^2.0.5"
   }
 }
