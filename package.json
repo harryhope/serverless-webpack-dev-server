@@ -1,6 +1,6 @@
 {
   "name": "serverless-webpack-dev-server",
-  "version": "0.1.1",
+  "version": "2.0.0",
   "description": "Run a webpack dev server seamlessly with serverless offline.",
   "main": "index.js",
   "scripts": {
